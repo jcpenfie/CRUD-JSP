@@ -1,0 +1,170 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background:#3498db;
+    margin: 0 auto 0 auto;  
+    width:100%; 
+    text-align:center;
+    margin: 0px 0px 20px 0px;   
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a, span {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.active {
+    background-color: #b55b56;
+}
+.active:hover{
+    background-color: #c93209;
+}
+
+
+.box{
+    overflow: auto;
+    background:white;
+    width:300px;
+    border-radius:6px;
+    margin: 0 auto 0 auto;
+    padding:0px 0px 0px 0px;
+    border: #2980b9 4px solid; 
+}
+
+.box2{
+    overflow: auto;
+    background:white;
+    width:10px;
+    border-radius:6px;
+    margin: 0 auto 0 auto;
+    padding:0px 0px 0px 0px;
+    border: #2980b9 4px solid; 
+}
+
+
+.btn{
+    background:#2ecc71;
+    width:90%;
+    padding-top:5px;
+    padding-bottom:5px;
+    color:white;
+    border-radius:4px;
+    border: #27ae60 1px solid;
+
+    margin-top:20px;
+    margin-bottom:20px;
+    float:left;
+    margin-left:16px;
+    font-weight:800;
+    font-size:0.8em;
+}
+
+.btn:hover{
+    background:#2CC06B; 
+}
+
+#btn2{
+    width:90%;
+    padding-top:5px;
+    padding-bottom:5px;
+    float:left;
+    background:#3498db;
+      
+    color:white;
+    border-radius:4px;
+    border: #2980b9 1px solid;
+
+    margin-top:20px;
+    margin-bottom:20px;
+    float:left;
+    margin-left:16px;
+    font-weight:800;
+    font-size:0.8em;
+}
+
+#btn2:hover{ 
+    background:#3594D2; 
+}
+
+img{
+        margin-top:50px;
+}
+
+/*Botones de coles*/
+
+.btnAmarillo{
+    background:#D7DF01;
+    width:90%;
+    padding-top:5px;
+    padding-bottom:5px;
+    color:white;
+    border-radius:4px;
+    border: #FFFF00 1px solid;
+
+    margin-top:20px;
+    margin-bottom:20px;
+    float:left;
+    margin-left:16px;
+    font-weight:800;
+
+}
+.btnMorado{
+    background:#8258FA;
+    width:90%;
+    padding-top:5px;
+    padding-bottom:5px;
+    color:white;
+    border-radius:4px;
+    border: #29088A 1px solid;
+
+    margin-top:20px;
+    margin-bottom:20px;
+    float:left;
+    margin-left:16px;
+    font-weight:800;
+
+}
+.btnAzul{
+    background:#5882FA;
+    width:90%;
+    padding-top:5px;
+    padding-bottom:5px;
+    color:white;
+    border-radius:4px;
+    border: #08088A 1px solid;
+    margin-top:20px;
+    margin-bottom:20px;
+    float:left;
+    margin-left:16px;
+    font-weight:800;
+
+}
+.btnRojo{
+    background:#FF0040;
+    width:90%;
+    padding-top:5px;
+    padding-bottom:5px;
+    color:white;
+    border-radius:4px;
+    border: #DF0101 1px solid;
+
+    margin-top:20px;
+    margin-bottom:20px;
+    float:left;
+    margin-left:16px;
+    font-weight:800;
+
+}
